@@ -1,0 +1,13 @@
+.flex {
+  background-color: #00c7ce;
+  height: 50vh;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+.flex > div {
+  background-color: #fff;
+  margin-right: auto;
+  font-size: 30px;
+}
