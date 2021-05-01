@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.master-visual {
+  width: 960px;
+  margin: 50px auto;
+}
+
+.main-visual {
+  padding: 50px 0;
+  border-radius: 10px;
+}
+
+.lists {
+  padding: 20px 20px;
+  list-style: none;
+  border-radius: 10px;
+}
+
+.lists:nth-child(odd) {
+  background-color: grey;
+}
+
+.img-box {
+  display: inline-block;
+  height: 200px;
+  width: 30%;
+  background-color: orange;
+}
+
+.img1 {
+  padding-right: 5%;
+  padding-bottom: 40px;
+  background-color: red;
+}
+
+.img5 {
+  background-color: red;
+}
+
+.img9 {
+  background-color: red;
+}
